@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZZCjas
-- 👀 I’m interested in C++ headerfiles and OS.
+- 👀 I’m interested in C++ headerfiles and OS.(Also Brianfuck!)
 - 🌱 I’m currently learning How to make an OS and make it better!
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
