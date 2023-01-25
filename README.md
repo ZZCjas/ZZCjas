@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZZCjas
-- 👀 I’m interested in C++,OS,hacker tools and website
+- 👀 I’m interested in C++,OS,hacker tools,Bullshit Generator and website
 - 🌱 I’m currently learning C++ algorithms!
 
 **I love C++ so much!!!**
